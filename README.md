@@ -27,10 +27,6 @@ El archivo comprimido del proyecto está disponible para su descarga desde el si
 ---
 
 ## 🖼️ Capturas de Pantalla
-### Pantalla Principal:
-![Pantalla Principal](ruta/a/la/imagen.jpg)
-
-### Pantalla de Registro de Armamento:
 ![image](https://github.com/user-attachments/assets/b09d6c24-74b3-4c9e-b041-c634b4a54652)
 ![image](https://github.com/user-attachments/assets/b78adfd4-eb04-4a28-b7ae-43a58d992eac)
 ![image](https://github.com/user-attachments/assets/f55c8790-a35c-4103-9e14-c95b606b69f1)
